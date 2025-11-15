@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">CustomerName</Data></Cell>
+			<Cell><Data ss:Type="String">Country</Data></Cell>
+			<Cell><Data ss:Type="String">TOTAL_REVENUE</Data></Cell>
+			<Cell><Data ss:Type="String">AMOUNT_ITEMS</Data></Cell>
+			<Cell><Data ss:Type="String">NUM_OREDRS</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Ernst Handel</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">35630</Data></Cell>
+			<Cell><Data ss:Type="Number">1418</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mère Paillarde</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">23434</Data></Cell>
+			<Cell><Data ss:Type="Number">422</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Save-a-lot Markets</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">22516</Data></Cell>
+			<Cell><Data ss:Type="Number">775</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rattlesnake Canyon Grocery</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">18442</Data></Cell>
+			<Cell><Data ss:Type="Number">573</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QUICK-Stop</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">18171</Data></Cell>
+			<Cell><Data ss:Type="Number">839</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
